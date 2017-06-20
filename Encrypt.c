@@ -1,9 +1,9 @@
+#include <cs50.h>
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
 #include <sys/stat.h>
 #include <stdlib.h>
-#include <stdbool.h>
 
 //struct to hold one block size input stream , 
 //key and an index to keep track of the i/p stream
